@@ -6,6 +6,7 @@ import { DataContainer } from "../App"
 import SliderHome from "../components/Slider"
 import AboutUs  from "../components/Info/Info"
 import BuySell from "../components/BuySell/BuySell"
+import Issues from "../components/Info/Issues"
 
 const Home = () => {
   const {addToCart} =useContext(DataContainer);
@@ -19,11 +20,13 @@ const Home = () => {
       <SliderHome/>
       <Wrapper />
       <AboutUs/>
+     
       <BuySell />
       {/*<Section title="Big Discount" bgColor="#f6f9fc" productItems={discoutProducts} addToCart={addToCart}/>
       <Section title="New Arrivals" bgColor="white" productItems={newArrivalData} addToCart={addToCart}/>
   <Section title="Best Sales" bgColor="#f6f9fc" productItems={bestSales} addToCart={addToCart}/>*/}
     </Fragment>
+    
   )
 }
 
