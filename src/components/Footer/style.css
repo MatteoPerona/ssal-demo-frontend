@@ -1,6 +1,6 @@
 footer {
   background-color: #0f3460;
-  padding: 80px 0;
+  padding: 20px 0;
   color: #fff;
 }
 
@@ -10,20 +10,22 @@ footer .box {
 
 footer h1 {
   margin: 0;
-  font-size: 25px;
+  font-size: 20px; /* Adjust the font size as needed */
   font-weight: 800;
   width: max-content;
 }
 
 footer .logo {
   color: white;
-  display:flex;
-  align-items:center;
-  gap:5px;
-  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 10px; /* Adjust the margin as needed */
 }
+
 footer h2 {
-  font-size: 20px;
+  font-size: 16px; /* Adjust the font size as needed */
+  margin-bottom: 10px; /* Adjust the margin as needed */
 }
 
 footer .row {
@@ -31,13 +33,9 @@ footer .row {
 }
 
 footer p {
-  font-size: 16px;
-  margin-bottom: 20px;
+  font-size: 14px; /* Adjust the font size as needed */
+  margin-bottom: 10px; /* Adjust the margin as needed */
   opacity: 0.5;
-}
-
-footer h2 {
-  margin-bottom: 20px;
 }
 
 footer ul {
@@ -45,6 +43,6 @@ footer ul {
 }
 
 footer li {
-  margin-bottom: 10px;
+  margin-bottom: 5px; /* Adjust the margin as needed */
   opacity: 0.5;
 }

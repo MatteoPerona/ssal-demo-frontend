@@ -6,7 +6,8 @@ const Ledger = () => {
   
   const possibleNames = [
     'Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Frank', 'Grace', 'Henry', 'Isabella', 'Jack',
-    'Kate', 'Liam', 'Mia', 'Noah', 'Olivia', 'Peter', 'Quinn', 'Rachel', 'Sam', 'Thomas',
+    'Kate', 'Liam', 'Mia', 'Noah', 'Olivia', 'Peter', 'Quinn', 'Rachel', 'Sam', 'Thomas', 'Matteo', 'Taerim',
+    'Alejandro', 'Winter'
     // ... add more names here ...
   ];
   

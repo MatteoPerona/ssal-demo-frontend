@@ -20,7 +20,7 @@ const Home = () => {
       <SliderHome/>
       <Wrapper />
       <AboutUs/>
-     
+      <Issues/>
       <BuySell />
       {/*<Section title="Big Discount" bgColor="#f6f9fc" productItems={discoutProducts} addToCart={addToCart}/>
       <Section title="New Arrivals" bgColor="white" productItems={newArrivalData} addToCart={addToCart}/>

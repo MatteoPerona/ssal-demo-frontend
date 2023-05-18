@@ -12,6 +12,9 @@ const Shop =lazy(()=> import("./pages/Shop"))
 const Sell =lazy(()=> import("./pages/Sell"))
 const Cart =lazy(()=> import("./pages/Cart"))
 const ProductDetails =lazy(()=> import("./pages/ProductDetails"));
+const Login =lazy(()=> import("./pages/Login"))
+const Register = lazy(() => import ("./pages/Register"))
+
 export const DataContainer = createContext();
 function App() {
   const [CartItem, setCartItem] = useState([])
@@ -66,8 +69,10 @@ function App() {
             <Route path='/sell' element={<Sell/>}/>
             <Route path='/shop/:id' element={<ProductDetails/>}/>
             <Route path='/cart' element={<Cart/>}/>
+            <Route path = '/login' element = {<Login/>}/>
+            <Route path = '/register' element = {<Register/>}/>
           </Routes>
-          <Footer />
+          <Footer/>
         </Router>
       </Suspense>
     </DataContainer.Provider>

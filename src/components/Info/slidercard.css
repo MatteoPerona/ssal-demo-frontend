@@ -60,4 +60,8 @@
     border: 1px solid #ccc;
     border-radius: 5px;
   }
-  
+  .text-box {
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin-bottom: 30px;
+  }
