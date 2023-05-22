@@ -43,3 +43,25 @@
     max-height: 300px;
     object-fit: contain;
 }
+.textbox-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .textbox-row {
+    display: flex;
+  }
+  
+  .textbox {
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .text-box {
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin-bottom: 30px;
+  }
