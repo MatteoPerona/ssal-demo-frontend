@@ -32,7 +32,7 @@ const NavBar = () => {
         <Container className="navbar-container">
             <Navbar.Brand>
               <Link to = "/"style={{ textDecoration: 'none' }}>
-              <h1 className="logo">R I S O</h1>
+              <h1 className="logo">S S A L</h1>
               </Link>
             </Navbar.Brand>
             {/* Media cart and toggle */}

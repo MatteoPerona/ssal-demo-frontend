@@ -19,7 +19,7 @@ const TextBox = () => {
             </h4>
             <div className="heading-line"></div>
             <div className="section-subtitle">
-              <i className="icon-anchor"></i> Riso utilizes state-of-the-art technology to tackle some of the greatest challenges in the existing markets.
+              <i className="icon-anchor"></i> Ssal utilizes state-of-the-art technology to tackle some of the greatest challenges in the existing markets.
               <br />  <br />  <br />  <br /> 
             </div>
           </div>

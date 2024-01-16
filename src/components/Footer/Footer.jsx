@@ -9,7 +9,7 @@ const Footer = () => {
           <Row className="footer-row">
             <Col md={3} sm={5} className='box'>
               <div className="logo">
-                  <h1  className="logo">R I S O</h1>
+                  <h1  className="logo">S S A L</h1>
               </div>
               <p>
               A blockchain-based commodities exchange platform which leverages the power of distributed ledger technology to address the challenge of transparency and trust in commodity trading.</p>

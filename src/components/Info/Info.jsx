@@ -8,7 +8,7 @@ const AboutUs = () => {
          <Container>
           <Row>
     <div>
-      <h2>What is RISO?</h2>
+      <h2>What is Ssal?</h2>
       <p>Welcome to our website! We are a passionate team dedicated to providing high-quality products and services.</p>
       <p>Our mission is to make a positive impact in the world by delivering innovative solutions that meet their needs.</p>
       <p>At our company, we value collaboration, creativity, and excellence. We work together to achieve our goals and continuously strive for improvement.</p>
